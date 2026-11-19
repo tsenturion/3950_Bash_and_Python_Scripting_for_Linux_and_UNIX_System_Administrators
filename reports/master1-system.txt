@@ -1,0 +1,12 @@
+=== Имя сервера ===
+master1
+
+=== Текущий пользователь ===
+root
+
+=== Время работы системы ===
+08:53:19 up  2:55,  2 users,  load average: 0.46, 0.94, 0.78
+
+=== Дисковое пространство ===
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda2        74G   13G   58G  18% /
